@@ -1,4 +1,4 @@
-- name: "Sala, C301, Facultad de Ingeniería Campus San Joaquín, Pontificia Universidad Católica." 
+- name: "Sala, C301, Facultad de Ingeniería Campus San Joaquín, Pontificia Universidad Católica. [Access to materials (Accesso a materiales)](https://github.com/ppseguel/sicss-chile-2023)" 
 
 - date: Monday July 17, 2023
   name: "Day 1: Introduction and Ethics"
@@ -29,7 +29,8 @@
     - name: "11:30 - 13:00 Keynote: Large Language Models - Felipe Bravo-Márquez"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:30 Workshop: Web Scrapping - Gabriel Iturra"
-    - name: "15:30 - 16:30 Group exercises [Link](https://docs.google.com/document/d/17bUtp4VafeezLFWYmQCxqyMJcL07C1l2jLyOhzmxdMs/edit?usp=sharing)"
+    - name: "15:30 - 15:45 Short Break"
+    - name: "15:45 - 16:30 Group exercises [Link](https://docs.google.com/document/d/17bUtp4VafeezLFWYmQCxqyMJcL07C1l2jLyOhzmxdMs/edit?usp=sharing)"
 
 - date: Thursday July 20, 2023
   name: "Day 4: Visualization and Data Analysis"
@@ -38,7 +39,8 @@
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Workshop: Data Visualization  - Cinthia Sánchez"
     - name: "13:00 - 14:00 Lunch"
-    - name: "14:00 - 15:30 Lecture: Unsupervised Learning -  Hernán Sarmiento"
+    - name: "14:00 - 15:15 Lecture: Unsupervised Learning -  Hernán Sarmiento"
+    - name: "15:15 - 15:30 Short Break"
     - name: "15:30 - 16:30 Workshop: Unsupervised Learning -  Hernán Sarmiento"
 
 
@@ -47,10 +49,12 @@
   events: 
     - name: "09:30 - 11:00 Keynote: Plataforma Telar -Juan Pablo Luna"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Research Speed Dating Logistics"
+    - name: "11:30 - 12:00 Workshop: ChatGPT API- Andrés Abeliuk"
+    - name: "12:00 - 13:00 Research Speed Dating Logistics"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Research Speed Dating Maximally Similar Groups"
-    - name: "15:00 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
+    - name: "15:00 - 15:15 Short Break"
+    - name: "15:15 - 16:00 Research Speed Dating Maximally Dissimilar Groups"
     - name: "16:00 - 16:30 Group Debrief (Project selection)"
 
 - date: Saturday July 22, 2023
@@ -62,7 +66,7 @@
 - date: Monday July 24, 2023
   name: "Day 6:  Work on group projects + Keynotes"
   events: 
-    - name: "09:30 - 11:00 Keynote: Innovación y Transferencia Tecnológica, IMFD - Jazmine Maldonado "
+    - name: "09:30 - 11:00 Keynote: La Ciencia de Datos como Motor de la Innovación Social - Jazmine Maldonado, Innovación y Transferencia Tecnológica, IMFD "
     - name: "11:00 - 11:30 Morning coffee"
     - name: "11:30 - 13:00 Keynote: Disinformation and network analysis - Marcelo Mendoza"
     - name: "13:00 - 14:00 Lunch"
@@ -75,7 +79,7 @@
   events: 
     - name: "09:30 - 11:00 Keynote: Experimentos online - Mauricio Bucca"
     - name: "11:00 - 11:30 Morning coffee"
-    - name: "11:30 - 13:00 Workshop: Network - Andrés Abeliuk"
+    - name: "11:30 - 13:00 Project Time"
     - name: "13:00 - 14:00 Lunch"
     - name: "14:00 - 15:00 Project Time with Claudio Gutiérrez (Ethics discussion about projects)"
     - name: "15:00 - 15:15 Short Break"

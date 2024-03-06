@@ -1,18 +1,18 @@
 
 - date: 2023-07-23
-  name: "18:30 - Opening Dinner at Restaurant Türkenhof (Türkenstraße 78, 80799 München)"   
+  name: "18:30 - Opening Dinner"   
     
 - date: 2023-07-24
   name: "Introduction and Ethics (Carsten Schwemmer & Mario Haim)"
   events:
-      - name: "09:00 - 10:15 Logistics and introduction to SICSS"
+      - name: "09:00 - 10:15 Logistics and introduction to SICSS [All Materials for Teaching and Guest Talks of every day](https://github.com/compsocialscience/summer-institute/tree/master/2023/munich/materials)"
       - name: "10:15 - 10:45 Coffee break"
       - name: "10:45 - 12:15 Ethics"
       - name: "12:15 - 12:30 Introduction to group exercise"
       - name: "12:30 - 13:30 Lunch"
       - name: "13:30 - 15:45 Group exercise"
       - name: "15:45 - 16:00 Break"
-      - name: "16:00 - 17:30 Guest speaker: Frauke Kreuter"
+      - name: "CANCELLED: 16:00 - 17:30 Guest speaker: Frauke Kreuter"
       
 - date: 2023-07-25
   name: "Collecting Digital Trace Data (Jan Zilinsky)"
@@ -100,7 +100,7 @@
   name: "Present group projects"
   events:
       - name: "12:30 - 13:30 Lunch"
-      - name: "18:30 - Closing dinner at Restaurant Paradieso (Lerchenfeldstraße 11, 80538 München)"
+      - name: "18:30 - Closing dinner"
  
 - date: 2023-08-04
   events:
